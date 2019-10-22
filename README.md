@@ -1,5 +1,7 @@
 # SINGLESHOTPOSE-data-set
-SINGLESHOTPOSE data set
+SINGLESHOTPOSE data set includes food data.
+
+There are ace, diget, diget_sand, gotica, small_spam, spam, tomato_soup in the food data set.
 
 ## 나는 
 
