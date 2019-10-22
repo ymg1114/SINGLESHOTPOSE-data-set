@@ -9,7 +9,7 @@ SINGLESHOTPOSE data set
 
 # **밥먹고** ***싶다잉***
 
-'''
+'''python
 #include<stdio.h>
 int main(void)
 {
