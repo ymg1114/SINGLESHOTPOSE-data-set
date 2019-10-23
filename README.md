@@ -9,7 +9,7 @@ There are ace, diget, diget_sand, gotica, small_spam, spam, tomato_soup in the f
 
 * [singleshotpose](https://drive.google.com/drive/folders/1KIaRF-iPUBoTEOu4agdcffVfHysYrNGc?usp=sharing)
   
-  1. ace
+1. ace
   
      - JPEGImages
      - mask
@@ -18,7 +18,7 @@ There are ace, diget, diget_sand, gotica, small_spam, spam, tomato_soup in the f
      - depth
      - ace.ply
   
-  2. diget
+2. diget
   
      * JPEGImages
      * mask
@@ -27,7 +27,7 @@ There are ace, diget, diget_sand, gotica, small_spam, spam, tomato_soup in the f
      * depth
      * diget.ply
 
- 3. diget_sand
+3. diget_sand
 
      ...
 
