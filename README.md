@@ -11,41 +11,41 @@ There are ace, diget, diget_sand, gotica, small_spam, spam, tomato_soup in the f
   
   1. ace
   
-   * JPEGImages
-   * mask
-   * labels
-   * inspection
-   * depth
-   * ace.ply
+     * JPEGImages
+     * mask
+     * labels
+     * inspection
+     * depth
+     * ace.ply
   
   2. diget
   
-   * JPEGImages
-   * mask
-   * labels
-   * inspection
-   * depth
-   * diget.ply
- 
+     * JPEGImages
+     * mask
+     * labels
+     * inspection
+     * depth
+     * diget.ply
+
  3. diget_sand
 
-   ...
-  
+     ...
+
   4. gotica
 
-   ...
+     ...
   
   5. small_spam
 
-   ...
+     ...
   
   6. spam
 
-   ...
+    ...
   
   7. tomato_soup
 
-   ...
+    ...
 
 * * *
 # **밥먹고** ***싶다잉***
