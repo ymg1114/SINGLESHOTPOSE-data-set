@@ -7,7 +7,7 @@ There are ace, diget, diget_sand, gotica, small_spam, spam, tomato_soup in the f
 ## structure of the data set
 
 
-### * [singleshotpose](https://drive.google.com/drive/folders/1KIaRF-iPUBoTEOu4agdcffVfHysYrNGc?usp=sharing)
+### [singleshotpose](https://drive.google.com/drive/folders/1KIaRF-iPUBoTEOu4agdcffVfHysYrNGc?usp=sharing)
   
   1. ace
      * JPEGImages : Input RGB image
