@@ -5,9 +5,8 @@ There are ace, diget, diget_sand, gotica, small_spam, spam, tomato_soup in the f
 
 ## The tree structure of the data set will be the following
 
-### 배가 
-
-##### 고프다잉
+1. ace
+2. diget
 
 # **밥먹고** ***싶다잉***
 
