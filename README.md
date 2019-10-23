@@ -35,3 +35,9 @@ food_t.ply : CAD model
 
 ### `diget_sand`
 <img src="https://user-images.githubusercontent.com/54105796/67358729-3f775800-f59c-11e9-8612-61364abbabc5.jpg" width="30%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+
+### `gotica`
+<img src="https://user-images.githubusercontent.com/54105796/67358791-6df53300-f59c-11e9-9cd3-1846f44bdc6b.jpg" width="30%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+
+### `small_spam`
+<img src="https://user-images.githubusercontent.com/54105796/67358844-911fe280-f59c-11e9-9b46-268ceb9463ec.jpg" width="30%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
