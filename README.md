@@ -27,7 +27,9 @@ food_t.ply : CAD model
 
 * * *
 # Food image
-![ace](C:\Users\skdid\OneDrive\Desktop\ace "링크 설명(title)을 작성하세요.")
+![ace](C:\Users\skdid\OneDrive\Desktop\ace.jpg)
+
+
 ```c
 #include<stdio.h>
 int main(void)
