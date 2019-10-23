@@ -32,3 +32,6 @@ food_t.ply : CAD model
 
 ### `diget`
 <img src="https://user-images.githubusercontent.com/54105796/67358632-06d77e80-f59c-11e9-9ee9-5625c3a7572c.jpg" width="30%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+
+### `diget_sand`
+<img src="https://user-images.githubusercontent.com/54105796/67358729-3f775800-f59c-11e9-8612-61364abbabc5.jpg" width="30%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
