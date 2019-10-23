@@ -1,11 +1,13 @@
 # SINGLESHOTPOSE dataset
 Food data for 6D pose estimation algorithm (especailly for SingleShotPose)
 
-There are `ace`, `diget`, `diget_sand`, `gotica`, `small_spam`, `spam`, `tomato_soup` in the food data set.
+The dataset is composed of `ace`, `diget`, `diget_sand`, `gotica`, `small_spam`, `spam`, and `tomato_soup`.
+
+data link: https://drive.google.com/drive/folders/1KIaRF-iPUBoTEOu4agdcffVfHysYrNGc?usp=sharing
 
 * * *
 # Discription of the dataset
-## [Structure](https://drive.google.com/drive/folders/1KIaRF-iPUBoTEOu4agdcffVfHysYrNGc?usp=sharing)
+## Structure
 ```
 singleshotpose
 --mask
