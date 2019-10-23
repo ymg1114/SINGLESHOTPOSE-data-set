@@ -11,10 +11,15 @@ There are `ace`, `diget`, `diget_sand`, `gotica`, `small_spam`, `spam`, `tomato_
 
 ## [singleshotpose](https://drive.google.com/drive/folders/1KIaRF-iPUBoTEOu4agdcffVfHysYrNGc?usp=sharing)
 `JPEGImages : Input RGB image
+
 mask : Mask image
+
 labels : Target label
+
 inspection : Input 3D bounding box
+
 depth : Depth image
+
 ace.ply : CAD model`
 
 
