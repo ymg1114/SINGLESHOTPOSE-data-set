@@ -27,7 +27,7 @@ food_t.ply : CAD model
 
 * * *
 # Food image
-![ace](C:\Users\skdid\OneDrive\Desktop\ace.jpg)
+![ace](\Users\skdid\OneDrive\Desktop\ace.jpg)
 
 
 ```c
