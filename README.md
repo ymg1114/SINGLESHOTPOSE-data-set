@@ -21,7 +21,7 @@ inspection : Input 3D bounding box
 
 depth : Depth image
 
-food_t.ply : CAD model
+food_type.ply : CAD model
 ```
 
 
