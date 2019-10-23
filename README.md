@@ -9,6 +9,12 @@ There are ace, diget, diget_sand, gotica, small_spam, spam, tomato_soup in the f
   * singleshotpose
     * CUSTOM
       1. ace
+      2. diget
+      3. diget_sand
+      4. gotica
+      5. small_spam
+      6. spam
+      7. tomato_soup
 
 # **밥먹고** ***싶다잉***
 
