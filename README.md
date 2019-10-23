@@ -11,7 +11,7 @@ There are `ace`, `diget`, `diget_sand`, `gotica`, `small_spam`, `spam`, `tomato_
 
 ## [singleshotpose](https://drive.google.com/drive/folders/1KIaRF-iPUBoTEOu4agdcffVfHysYrNGc?usp=sharing)
   
-   #### [1. ace](https://drive.google.com/drive/folders/1OoCVeGMsaN83hIoUV0g41H_PWwy4Ekpc?usp=sharing)
+   #### - [1. ace](https://drive.google.com/drive/folders/1OoCVeGMsaN83hIoUV0g41H_PWwy4Ekpc?usp=sharing)
      JPEGImages : Input RGB image
      mask : Mask image
      labels : Target label
