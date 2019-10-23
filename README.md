@@ -8,6 +8,12 @@ There are ace, diget, diget_sand, gotica, small_spam, spam, tomato_soup in the f
 * Pose_estimation
   * singleshotpose
     1. ace
+      * JPEGImages
+      * mask
+      * labels
+      * inspection
+      * depth
+      * ace.ply
     2. diget
     3. diget_sand
     4. gotica
