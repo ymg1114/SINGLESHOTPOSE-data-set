@@ -5,8 +5,10 @@ There are ace, diget, diget_sand, gotica, small_spam, spam, tomato_soup in the f
 
 ## The tree structure of the data set will be the following
 
-1. ace
-2. diget
+* Pose_estimation
+ * singleshotpose
+  * CUSTOM
+    1. ace
 
 # **밥먹고** ***싶다잉***
 
