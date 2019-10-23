@@ -6,7 +6,7 @@ There are `ace`, `diget`, `diget_sand`, `gotica`, `small_spam`, `spam`, `tomato_
 
 
 * * *
-# Directory structure of the data set
+# Discription of the data set
 
 
 ## [singleshotpose](https://drive.google.com/drive/folders/1KIaRF-iPUBoTEOu4agdcffVfHysYrNGc?usp=sharing)
@@ -26,7 +26,7 @@ food_t.ply : CAD model
 
 
 * * *
-# **밥먹고** ***싶다잉***
+# Food image
 
 ```c
 #include<stdio.h>
