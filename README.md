@@ -27,8 +27,7 @@ food_t.ply : CAD model
 
 * * *
 # Food image
-![ace](\Users\skdid\OneDrive\Desktop\ace.jpg)
-
+![ace](https://user-images.githubusercontent.com/54105796/67358408-39cd4280-f59b-11e9-9ad6-520f90ce369b.jpg)
 
 ```c
 #include<stdio.h>
