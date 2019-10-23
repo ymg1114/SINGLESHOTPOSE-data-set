@@ -10,13 +10,12 @@ There are ace, diget, diget_sand, gotica, small_spam, spam, tomato_soup in the f
 * [singleshotpose](https://drive.google.com/drive/folders/1KIaRF-iPUBoTEOu4agdcffVfHysYrNGc?usp=sharing)
   
 1. ace
-  
-     - JPEGImages
-     - mask
-     - labels
-     - inspection
-     - depth
-     - ace.ply
+ * JPEGImages
+ * mask
+ * labels
+ * inspection
+ * depth
+ * ace.ply
   
 2. diget
   
@@ -31,11 +30,11 @@ There are ace, diget, diget_sand, gotica, small_spam, spam, tomato_soup in the f
 
      ...
 
-  4. gotica
+4. gotica
 
      ...
   
-  5. small_spam
+5. small_spam
 
      ...
   
