@@ -6,7 +6,7 @@ The dataset is composed of `ace`, `diget`, `diget_sand`, `gotica`, `small_spam`,
 data link: https://drive.google.com/drive/folders/1KIaRF-iPUBoTEOu4agdcffVfHysYrNGc?usp=sharing
 
 * * *
-# Discription of the dataset
+# Description of the dataset
 ## Structure
 ```
 singleshotpose
