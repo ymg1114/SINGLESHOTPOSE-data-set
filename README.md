@@ -9,6 +9,7 @@ data link: https://drive.google.com/drive/folders/1KIaRF-iPUBoTEOu4agdcffVfHysYr
 # Collection method
 
 The dataset is collected using markers. First, we collected the pose of object in a image with respect to 16 kinds of markers like below image.
+
 ![data collection](https://user-images.githubusercontent.com/24308201/142810967-dc5ed41c-be7c-4bc2-823a-92a12f964407.gif)
 
 Then, we can know the pose of object if a marker exists in the image. For this method, the CAD file of the object is necessary to match the origin of the object.
@@ -26,7 +27,7 @@ singleshotpose
 --ply
 ```
 
-# Labels
+## Labels
 This dataset has same style of label with SingleShotPose. Therefore, you can refer it. [https://github.com/microsoft/singleshotpose]
 
 This labeling style have the center of object and the width & height of object, you can utilize it for object detection such as YOLO.
