@@ -4,7 +4,7 @@ SingleShotPose: https://github.com/microsoft/singleshotpose
 
 The dataset is composed of `ace`, `diget`, `diget_sand`, `gotica`, `small_spam`, `spam`, and `tomato_soup`.
 
-data link: https://drive.google.com/drive/folders/1KIaRF-iPUBoTEOu4agdcffVfHysYrNGc?usp=sharing
+data link: https://koreaoffice-my.sharepoint.com/:f:/g/personal/jhj0630_korea_edu/Emnjiedw6XNKsJlXlu_xZjABi-gfIaUCw7sq4sn5cdFSzw?e=5zvFsP
 
 # Collection method
 
